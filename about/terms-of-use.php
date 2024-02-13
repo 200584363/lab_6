@@ -51,7 +51,7 @@
 	<footer>
 		<nav>
 			<a href="privacy-policy.php" title="Read our Privacy Policy">Privacy Policy</a> | <a href="privacy-policy.php#personal-information" title="Learn about how we treat your personal information">Use of Personal Information</a>
-			| <a href="terms-of-use.php#limitation-liability" title="Terms of use">Terms of use</a>
+			| <a href="terms-of-use.php#limitation-liability" title="Terms of use">Terms of use</a> | <a href="about/terms-of-use.php#limitation-liability" title="Terms of use">Limitation of Liability</a>
 		</nav>
 		<p><small>© HTML, CSS, and JS Blocks Inc.</small></p>
 	</footer>
